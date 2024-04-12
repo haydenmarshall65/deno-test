@@ -13,9 +13,9 @@ export default function Home() {
           height="128"
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
-        <h1 class="text-4xl font-bold">Welcome to Fresh</h1>
+        <h1 class="text-4xl font-bold">Hayden's Fresh Test</h1>
         <p class="my-4">
-          This is a test
+          This is a test of the Fresh thing
         </p>
         <Counter count={count} />
       </div>
