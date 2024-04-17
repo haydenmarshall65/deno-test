@@ -31,4 +31,4 @@ jobs:
         with:
           project: "hayden-deno-test"
           entrypoint: "fresh-project/main.ts"
-          root: ""
+          root: "fresh-project"
